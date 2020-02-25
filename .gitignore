@@ -1,0 +1,9 @@
+BooksReviews/.vs/
+BooksReviews/BooksReviews.WebAPI/bin/
+BooksReviews/BooksReviews.WebAPI/obj/
+BooksReviews/BooksReviews.EFCore/bin/
+BooksReviews/BooksReviews.EFCore/obj/
+BooksReviews/BooksReviews.Models/bin/
+BooksReviews/BooksReviews.Models/obj/
+BooksReviews/BooksReviews.xUnit/obj/
+BooksReviews/BooksReviews.xUnit/bin/
